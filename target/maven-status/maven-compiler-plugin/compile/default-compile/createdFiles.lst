@@ -1,0 +1,6 @@
+amoa\exceptions\NoSuchProductException.class
+amoa\webservices\ProductsManager.class
+amoa\webservices\ProductsManagerImpl.class
+amoa\server\ServicePublisher.class
+amoa\domain\Product.class
+amoa\domain\Products.class
